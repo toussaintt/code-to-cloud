@@ -1,6 +1,6 @@
 {
-  "name": "@martedesco/code-to-cloud-twitch",
-  "version": "1.0.0",
+  "name": "@martedesco/code-to-cloud",
+  "version": "2.0.0",
   "description": "Calculator",
   "repository": {
     "type": "git",
