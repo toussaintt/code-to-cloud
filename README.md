@@ -1,4 +1,4 @@
-Calculator.js: a node.js Demonstration Project
+Calculator.js: a node.js 
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
@@ -11,6 +11,6 @@ output that can be presented in a continuous integration tool like
 
 To build, simply:
 
-1. Runs `npm install` to install dependencies.
-2. Runs `npm test` to run Mocha and execute the unit tests.
+1. Runs `npm ci` to install dependencies & run tests.
+
 
